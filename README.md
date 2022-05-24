@@ -2,4 +2,4 @@
 
 ## develop
 
-## kenshu-app
+## kenshu-app修正済み
